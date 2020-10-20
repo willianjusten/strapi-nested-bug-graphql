@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_section_aboutuses",
+  "info": {
+    "name": "SectionAboutUs",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "authors": {
+      "collection": "authors"
+    }
+  }
+}

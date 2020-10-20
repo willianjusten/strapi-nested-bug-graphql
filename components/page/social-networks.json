@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_social_networks",
+  "info": {
+    "name": "socialNetworks",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "Network": {
+      "type": "enumeration",
+      "enum": [
+        "Twitter",
+        "Dribbble",
+        "Github"
+      ]
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
